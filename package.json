@@ -1,0 +1,32 @@
+{
+  "name": "sequelize-aws-x-ray-pg",
+  "version": "1.0.0",
+  "description": "Sequelize extension for AWS X-Ray (requires pg module)",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize-aws-x-ray": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shun-tak/sequelize-aws-x-ray-pg.git"
+  },
+  "keywords": [
+    "sequelize",
+    "aws",
+    "amazon",
+    "x-ray",
+    "xray",
+    "postgresql",
+    "pg"
+  ],
+  "author": "shun-tak <shun.tak221@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shun-tak/sequelize-aws-x-ray-pg/issues"
+  },
+  "homepage": "https://github.com/shun-tak/sequelize-aws-x-ray-pg#readme"
+}
